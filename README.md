@@ -1,2 +1,1 @@
-# bugs
-0 .. N
+# zero-day-writeups
