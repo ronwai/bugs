@@ -1,1 +1,1 @@
-# zero-day-writeups
+# disclosures, exploits, write-ups
